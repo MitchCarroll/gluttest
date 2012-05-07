@@ -1,0 +1,16 @@
+1.0:	initial release
+1.1:	inverted triangle. now appears 'point up'
+1.2:	Changed title bar to reflect version number.
+	added support for ESC key to exit
+1.3:	Added texture mapping
+	fixed title bar of window to reflect PACKAGE_STRING
+	changed shape to a QUAD
+	added timer-based rotation
+	removed glColor calls
+	
+1.4:	Changed shape to the Utah Teapot
+	Added Perspective call
+	Repositioned teapot for better visibility
+1.5:	Added lighting
+	reorganized main.cpp
+	added a few more checks to the autotools files

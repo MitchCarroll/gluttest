@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.68])
-AC_INIT([gluttest], [1.5-r1], [c.mitch.carroll@gmail.com])
+AC_INIT([gluttest], [1.6], [c.mitch.carroll@gmail.com])
 AM_INIT_AUTOMAKE
 AC_CONFIG_SRCDIR([main.cpp])
 AC_CONFIG_HEADERS([config.h])

@@ -14,3 +14,4 @@
 1.5:	Added lighting
 	reorganized main.cpp
 	added a few more checks to the autotools files
+1.6:	Created a git repository, and promoted to 1.6

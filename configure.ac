@@ -12,7 +12,6 @@ AC_PROG_CXX
 AC_PROG_CC
 
 # Checks for libraries.
-# FIXME: Replace `main' with a function in `-lglut':
 AC_CHECK_LIB([GL], [glBegin])
 AC_CHECK_LIB([GLU], [gluPerspective])
 AC_CHECK_LIB([glut], [glutInit])
